@@ -9,6 +9,7 @@ Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 Проекты
+
 Проект 1: Тестирование программного продукта для учителей - “Личные события”
 
 Что нужно было сделать:
